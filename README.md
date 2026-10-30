@@ -126,13 +126,6 @@ projeto/
 
 A IA (Claude, da Anthropic) foi utilizada na **migração da Landing Page da Sprint 3 (HTML/CSS) para React + Tailwind CSS** (conversão das seções em componentes, tradução do CSS original para classes do Tailwind e ajuste da responsividade) e na **implementação dos requisitos da Sprint 4**: configuração das rotas públicas e privadas com React Router, criação dos hooks customizados, do login simulado, da página de quiz e do painel do estudante. O conteúdo, a solução e as telas do protótipo JOVI STUDY CAM são da própria equipe. Todo o código gerado foi revisado e testado pelo grupo.
 
-## 🚀 Deploy (Git + Vercel)
-
-1. Suba o projeto para um repositório no GitHub (`git init`, `git add .`, `git commit`, `git push`).
-2. Na Vercel, clique em **Add New → Project** e importe o repositório.
-3. A Vercel detecta o Vite automaticamente (Build Command: `npm run build` · Output Directory: `dist`). O arquivo `vercel.json` já faz as rotas (`/quiz`, `/login`, `/painel`) funcionarem ao recarregar a página.
-4. Clique em **Deploy** e copie o link gerado para a seção "Links" acima.
-
 ## 👥 Integrantes
 
 Veja o arquivo `INTEGRANTES.TXT`.
