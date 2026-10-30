@@ -6,7 +6,7 @@ Projeto da **Sprint 4 – Front-End Design + Web Development**. É a evolução 
 
 ## 🔗 Links
 
-- **Deploy na Vercel:** `COLOQUE_AQUI_O_LINK_DA_VERCEL`
+- [Deploy na Vercel](https://sprint4-frontend-javascript.vercel.app/)
 - [Repositório Git](https://github.com/Miguelgommes/-Sprint4-frontend---javascript.git)
 
 ## 🛠️ Tecnologias utilizadas
