@@ -1,0 +1,78 @@
+{
+  "titulo": "Biologia: Fotossíntese e Respiração",
+  "descricao": "Quiz gerado a partir de uma página de livro fotografada com o JOVI STUDY CAM.",
+  "perguntas": [
+    {
+      "id": 1,
+      "tema": "Fotossíntese",
+      "pergunta": "Quais são os principais reagentes da fotossíntese?",
+      "opcoes": [
+        "Glicose e oxigênio",
+        "Gás carbônico e água",
+        "Oxigênio e água",
+        "Glicose e gás carbônico"
+      ],
+      "correta": 1
+    },
+    {
+      "id": 2,
+      "tema": "Fotossíntese",
+      "pergunta": "Qual gás é liberado para a atmosfera como produto da fotossíntese?",
+      "opcoes": [
+        "Nitrogênio",
+        "Gás carbônico",
+        "Oxigênio",
+        "Hidrogênio"
+      ],
+      "correta": 2
+    },
+    {
+      "id": 3,
+      "tema": "Cloroplastos",
+      "pergunta": "Em qual organela da célula vegetal ocorre a fotossíntese?",
+      "opcoes": [
+        "Mitocôndria",
+        "Cloroplasto",
+        "Ribossomo",
+        "Vacúolo"
+      ],
+      "correta": 1
+    },
+    {
+      "id": 4,
+      "tema": "Cloroplastos",
+      "pergunta": "Qual pigmento presente nos cloroplastos capta a energia da luz?",
+      "opcoes": [
+        "Clorofila",
+        "Melanina",
+        "Hemoglobina",
+        "Caroteno"
+      ],
+      "correta": 0
+    },
+    {
+      "id": 5,
+      "tema": "Respiração celular",
+      "pergunta": "Qual molécula armazena e fornece a energia usada pelas células, produzida na respiração celular?",
+      "opcoes": [
+        "ATP",
+        "DNA",
+        "RNA",
+        "Clorofila"
+      ],
+      "correta": 0
+    },
+    {
+      "id": 6,
+      "tema": "Respiração celular",
+      "pergunta": "Em qual organela ocorre a maior parte da respiração celular aeróbica?",
+      "opcoes": [
+        "Núcleo",
+        "Cloroplasto",
+        "Lisossomo",
+        "Mitocôndria"
+      ],
+      "correta": 3
+    }
+  ]
+}

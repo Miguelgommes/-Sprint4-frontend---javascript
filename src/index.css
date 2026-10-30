@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primaria: #3452a6;
+  --color-primaria-escura: #22366e;
+  --color-secundaria: #f2a341;
+  --color-fundo: #f5f6fa;
+  --color-fundo-alt: #ffffff;
+  --color-texto: #22242e;
+  --color-texto-claro: #5c6070;
+  --font-titulo: 'Segoe UI', Verdana, sans-serif;
+  --font-texto: 'Segoe UI', Arial, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+
+  body {
+    @apply bg-fundo font-texto text-texto leading-relaxed;
+  }
+
+  h1, h2, h3 {
+    @apply font-titulo text-primaria-escura leading-tight;
+  }
+}
